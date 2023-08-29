@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcoduartestorm
-- 👀 I’m interested in programming
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Rest Api's
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me marcosbottocomp@gmail.com
